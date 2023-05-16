@@ -31,6 +31,5 @@ The following is set in the lifecycle for the VCL service resource to avoid any 
 
 The dynamic snippets are set with `managed = false` so that the initial implementation creates a placeholder for these snippets. Fastly is then updating the snippets when a revised integration is created or the `sigsci_edge_deployment_service` resource is applied.
 
-# Want some new functionality or have questions?
-Reach out Max Anderson, Guy Brown, or Brooks Cunningham on the TSG team.
+
 
